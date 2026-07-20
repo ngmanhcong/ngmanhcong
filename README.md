@@ -1,11 +1,4 @@
-# Hi there 👋
 
-## About Me
-
-- 🎓 Information Security Student at PTIT
-- 💻 Interested in Security Software Engineering / EDR Development
-- 🔭 Currently learning Windows Internals, Windows API and C/C++
-- 🌱 Exploring Endpoint Security
 
 ## GitHub Contribution Snake
 
